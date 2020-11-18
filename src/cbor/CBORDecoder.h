@@ -23,6 +23,7 @@
  ******************************************************************************/
 #ifdef __AVR__
 #include <Arduino.h>
+#include <avr_stl.h>
 #include <ArduinoSTL.h>
 #endif
 
